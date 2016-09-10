@@ -1,0 +1,25 @@
+Query 1. Michael Berger Gould
+Query 2. Stephen M. Rich Gould
+Query 3. Ronald Garet Gould
+Query 4. Business Law Program Gould
+Query 5. Alternative Dispute Resolution Program Gould
+Query 6. Media, Entertainment and Technology Law Program Gould
+Query 7. Gould USC map
+Query 8. James Gould
+Query 9. USC Gould Alumni
+Query 10. USC Juris Doctor Degree Requirements
+Query 11. USC LLM Program Degree Requirements
+Query 12. USC Online Master of Studies in Law Program degree requirements
+Query 13. Courses deserve to take in USC Gould
+
+RQ1. Google. After analysis of the average performance on my 12 queries, Google performs better than Bing. It has higher relevance score on average.
+
+RQ2. 
+
+(1) On navigational queries: 
+When we consider top 10 results for a query, Google is better than Bing for it has a higher relevance score on average.
+When we consider top 1 result for a query, Bing outperformed Google. While Bing found the correct page for 88.8% of all queries, Google did 77.8%.
+
+(2) On informational queries:
+We can see that Google produces more relevant results than its competitor. The total ratio of relevant results for the informational queries is 43.3% for Bing, and 63.3% for Google, respectively.
+	
